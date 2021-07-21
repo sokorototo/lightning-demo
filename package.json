@@ -1,0 +1,14 @@
+{
+  "name": "lightning",
+  "version": "0.0.1",
+  "description": "Lightning Special Effects in Babylonjs",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"I am fine for the momoent\""
+  },
+  "keywords": [
+    "lightning"
+  ],
+  "author": "Newton Toto <nyachiengatoto@gmail.com>",
+  "license": "ISC"
+}
