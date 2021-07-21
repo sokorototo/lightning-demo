@@ -2,7 +2,6 @@
   "name": "lightning",
   "version": "0.0.1",
   "description": "Lightning Special Effects in Babylonjs",
-  "main": "src/main.js",
   "scripts": {
     "test": "echo \"I am fine for the momoent\""
   },
@@ -10,5 +9,8 @@
     "lightning"
   ],
   "author": "Newton Toto <nyachiengatoto@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "babylonjs": "^4.2.0"
+  }
 }

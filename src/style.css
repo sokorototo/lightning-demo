@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: none;
+}
+
+body, html {
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+}
+
+canvas#cx {
+	background-color: black;
+	width: 100%;
+	height: 100%;
+}

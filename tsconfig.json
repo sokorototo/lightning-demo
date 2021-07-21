@@ -1,0 +1,12 @@
+{
+	"include": ["./scripts/"],
+	"compileOnSave": true,
+	"compilerOptions": {
+		"target": "es6",
+		"module": "UMD",
+		"strict": true,
+		"outDir": "src",
+		"sourceMap": false,
+		"removeComments": true,
+	}
+}
