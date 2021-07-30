@@ -39,7 +39,6 @@ function parse(_type, _props, _globals, _scene, _home) {
 			const texture = new BABYLON.Texture(`${_home}${_props['url']}`, _scene);
 			for (const key in _props) {
 				if (key === 'name' || key === 'url') continue;
-				console.log(key);
 
 				const property = _props[key];
 				const { type, globals, ...props } = property;

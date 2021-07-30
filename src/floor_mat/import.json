@@ -38,5 +38,9 @@
 	"useRoughnessFromMetallicTextureGreen": {
 		"type": "Flag",
 		"value": true
+	},
+	"backFaceCulling": {
+		"type": "Flag",
+		"value": false
 	}
 }
