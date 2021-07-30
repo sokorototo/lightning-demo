@@ -4,5 +4,16 @@
 		"data",
 		"from",
 		"prefiltered"
+	],
+	"cSpell.ignoreWords": [
+		"basis",
+		"blue",
+		"from",
+		"heightmap",
+		"metallic",
+		"metallness",
+		"mrao",
+		"texture",
+		"use"
 	]
 }

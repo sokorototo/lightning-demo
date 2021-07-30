@@ -1,0 +1,42 @@
+{
+	"name": "floor_mat_01",
+	"type": "PBRMaterial",
+	"globals": [
+		{
+			"type": "Texture",
+			"uScale": {
+				"type": "Flag",
+				"value": 5
+			},
+			"vScale": {
+				"type": "Flag",
+				"value": 5
+			}
+		}
+	],
+
+	"metallicTexture": {
+		"type": "Texture",
+		"url": "mrao.basis"
+	},
+	"bumpTexture": {
+		"type": "Texture",
+		"url": "bump.basis"
+	},
+	"albedoTexture": {
+		"type": "Texture",
+		"url": "albedo.basis"
+	},
+	"useAmbientOcclusionFromMetallicTextureRed": {
+		"type": "Flag",
+		"value": true
+	},
+	"useMetallnessFromMetallicTextureBlue": {
+		"type": "Flag",
+		"value": true
+	},
+	"useRoughnessFromMetallicTextureGreen": {
+		"type": "Flag",
+		"value": true
+	}
+}
